@@ -44,7 +44,7 @@ My research interests include
 
 ## Journal Papers
 
-<div class='paper-box'><div><div class='paper-box-image'><img src='images/CFPP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/CFPP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Comparative analysis of circular and linear fringe projection profilometry: from calibration to 3D reconstruction](https://opg.optica.org/optcon/fulltext.cfm?uri=optcon-3-3-468&id=547988)
