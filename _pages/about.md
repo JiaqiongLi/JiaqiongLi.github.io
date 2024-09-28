@@ -44,7 +44,7 @@ My research interests include
 
 ## Journal Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/CFPP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div><div class='paper-box-image'><img src='images/CFPP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Comparative analysis of circular and linear fringe projection profilometry: from calibration to 3D reconstruction](https://opg.optica.org/optcon/fulltext.cfm?uri=optcon-3-3-468&id=547988)
@@ -103,10 +103,12 @@ Badrinath Balasubramaniam, **Jiaqiong Li**, Lingling Liu, Beiwen Li*
 - 3D imaging
 - Fringe Projection
 - Applications in Food and Agriculture
+
 </div>
 </div>
 
 ## Conference Papers
+
 - [Single-camera line-scan hyperspectral 4D imaging based on fringe projection](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC12098/PC1209803/Single-camera-line-scan-hyperspectral-4D-imaging-based-on-fringe/10.1117/12.2622527.short#_=_)
   **Jiaqiong Li**, Yi Zheng, Beiwen Li*
 
@@ -114,15 +116,17 @@ Badrinath Balasubramaniam, **Jiaqiong Li**, Lingling Liu, Beiwen Li*
   **Yashwanth Maddipatla**, Jiaqiong Li, Yi Zheng, Beiwen Li*
 
 
+
+
 # 📚 Teaching
 
 - **2024.08 - 2024.12** Graduate Teaching Assistant, University of Georgia  
   **Course taught**: Dynamics  
-  **Responsibility**: 
+  **Responsibility**: Substituting lecturing when the lecturer is not available
 
 - **2021.01 - 2021.08** Graduate Teaching Assistant, Iowa State University  
   **Course taught**: Heat Transfer  
-  **Responsibility**: 
+  **Responsibility**: Lab lecturing, grading, and office hours.
 
 
 # 🌐 Professional affiliations and review activities
