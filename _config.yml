@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiaqiong Li's Personal Homepage"
+title                    : "Jiaqiong Li - Homepage"
 description              : "Cat lover, cooking enthusiast, and dedicated to making machines see the world in 3D."
 repository               : "/JiaqiongLi/JiaqiongLi.github.io"
 google_scholar_stats_use_cdn : true
