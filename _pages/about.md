@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♀️ Biography
-I'm a Ph.D. candidate majoring in Mechanical Engineering at [University of Georgia](https://www.uga.edu/), supervised by [Prof. Beiwen Li](https://engineering.uga.edu/team_member/beiwen-li/) of [3D Optical Sensing Laboratory](https://www.3daoslab.com/). I expect to graduate in January 2024, and I am actively seeking postdoc and tenure-track assistant professor opportunities. Let's get connected!:blush:
+I'm a Ph.D. candidate majoring in Mechanical Engineering at the [University of Georgia](https://www.uga.edu/), supervised by [Prof. Beiwen Li](https://engineering.uga.edu/team_member/beiwen-li/) of [3D Optical Sensing Laboratory](https://www.3daoslab.com/). I expect to graduate in January 2024, and I am actively seeking postdoc and tenure-track assistant professor opportunities. Let's get connected!:blush:
 
 
 My research interests include 
@@ -151,9 +151,9 @@ Badrinath Balasubramaniam, **Jiaqiong Li**, Lingling Liu, Beiwen Li*
 
 - **August 2018 - December 2020**, Engineer, Pan Asia Technical Automotive Center, Shanghai, China. 
   **Responsibilities**: 
-  1. Designed and released the parts of brake system in multiple vehicle platforms, including the local K platform and global Epsilon II platform. 
-  2. Built a knowledge map of brake system, which was a key research project in chassis department. 
+  1. Designed and released the parts of the brake system in multiple vehicle platforms, including the local K platform and global Epsilon II platform. 
+  2. Built a knowledge map of the brake system, which was a key research project in the chassis department. 
 
 
 # 🗺️ Visitor Map
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js" async="async"></script>
