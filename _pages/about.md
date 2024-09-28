@@ -103,7 +103,8 @@ Badrinath Balasubramaniam, **Jiaqiong Li**, Lingling Liu, Beiwen Li*
 - 3D imaging
 - Fringe Projection
 - Applications in Food and Agriculture
-
+</div>
+</div>
 
 ## Conference Papers
 - [Single-camera line-scan hyperspectral 4D imaging based on fringe projection](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC12098/PC1209803/Single-camera-line-scan-hyperspectral-4D-imaging-based-on-fringe/10.1117/12.2622527.short#_=_)
@@ -112,9 +113,6 @@ Badrinath Balasubramaniam, **Jiaqiong Li**, Lingling Liu, Beiwen Li*
 - [Tracking and visualization of benchtop assembly components using a RGBD camera](https://asmedigitalcollection.asme.org/MSEC/proceedings-abstract/MSEC2023/87240/1168779)
   **Yashwanth Maddipatla**, Jiaqiong Li, Yi Zheng, Beiwen Li*
 
-
-</div>
-</div>
 
 # 📚 Teaching
 
