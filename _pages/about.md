@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♀️ Biography
-I'm a Ph.D. candidate majoring in Mechanical Engineering at the [University of Georgia](https://www.uga.edu/), supervised by [Prof. Beiwen Li](https://engineering.uga.edu/team_member/beiwen-li/) of [3D Optical Sensing Laboratory](https://www.3daoslab.com/). I expect to graduate in January 2024, and I am actively seeking postdoc and tenure-track assistant professor opportunities. Let's get connected!:blush:
+I'm a Ph.D. candidate majoring in Mechanical Engineering at the [University of Georgia](https://www.uga.edu/), supervised by [Prof. Beiwen Li](https://engineering.uga.edu/team_member/beiwen-li/) of [3D Optical Sensing Laboratory](https://www.3daoslab.com/). I expect to graduate in January 2024, and I am actively seeking postdoc and tenure-track assistant professor opportunities. Let's get connected! 😊
 
 
 My research interests include 
