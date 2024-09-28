@@ -40,68 +40,77 @@ My research interests include
 
 
 
-# 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><img src='images/frame.jpg' alt="sym" width="100%"></div></div>
+# 📝 Publications
+
+## Journal Papers
+
+<div class='paper-box'><div><div class='paper-box-image'><img src='images/CFPP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Gated recurrent units-assisted state-space modeling for electric vehicle temperature prediction](https://ieeexplore.ieee.org/document/10653772)
+[Comparative analysis of circular and linear fringe projection profilometry: from calibration to 3D reconstruction](https://opg.optica.org/optcon/fulltext.cfm?uri=optcon-3-3-468&id=547988)
 
-**Xinyuan Liao**, Shaowei Chen, and Shuai Zhao*
+**Jiaqiong Li**, and Beiwen Li*
 
 **Keywords**
-- Recurrent Neural Networks
-- Physics-Informed Machine Learning
-- EVs' Electrical System 
+- Circular Fringe Projection Profilometry
+- Linear Fringe Projection Profilometry
+- 3D Reconstruction
+- Calibration
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ECCE 2024</div><img src='images/PE-GPT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/TPDnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PE-GPT: A Physics-Informed Interactive Large Language Model for Power Converter Modulation Design](https://arxiv.org/ftp/arxiv/papers/2403/2403.14059.pdf)
+[Tpdnet: Texture-guided phase-to-depth networks to repair shadow-induced errors for fringe projection profilometry](https://opg.optica.org/optcon/fulltext.cfm?uri=optcon-3-3-468&id=547988)
 
-Fanfan Lin, Junhua Liu, Xinze Li, Shuai Zhao, et al., **Xinyuan Liao**
+**Jiaqiong Li**, and Beiwen Li*
 
 **Keywords**
-- Power Converters
-- Large Language Model
-- Physics-Informed Neural Networks
-- Modulation Strategy 
+- Shadow-induced errors
+- Fringe Projection Profilometry
+- Phase-to-depth Networks
+- Digital Twin
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv 2023</div><img src='images/roadmap.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/4D VIS Hyperspectral imaging.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Explainable Neural Dynamics Models for Electric Motor Temperature Estimation](https://doi.org/10.36227/techrxiv.24555889)
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/ms140429/Explainable-Neural-Dynamics-Model)
+[4D line-scan hyperspectral imaging](https://opg.optica.org/oe/fulltext.cfm?uri=oe-29-21-34835&id=460346)
 
-**Xinyuan Liao**, Shaowei Chen, Yunxiang Long, Shuai Zhao*
+**Jiaqiong Li**, Yi Zheng, Lingling Liu, and Beiwen Li*
 
 **Keywords**
-- System Thermal Dynamics
-- Control-Oriented Modeling
-- Stability Constraints
-- State-Space Models
+- 3D Imaging
+- Hyperspectral Imaing
+- Line-scan
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Engineering Informatics 2023</div><img src='images/aei.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/3D agriculture.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Remaining useful life with self-attention assisted physics-informed neural network](https://doi.org/10.1016/j.aei.2023.102195)
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/XinyuanLiao/AttnPINN-for-RUL-Estimation)
+[3D imaging with fringe projection for food and agricultural applications-A Tutorial](https://www.mdpi.com/2079-9292/12/4/859)
 
-**Xinyuan Liao**, Shaowei Chen, Pengfei Wen, Shuai Zhao*
+Badrinath Balasubramaniam, **Jiaqiong Li**, Lingling Liu, Beiwen Li*
 
 **Keywords**
-- Physics-Informed Neural Networks
-- Attention Mechanism
-- Remaining Useful Life
+- 3D imaging
+- Fringe Projection
+- Applications in Food and Agriculture
+
+
+## Conference Papers
+- [Single-camera line-scan hyperspectral 4D imaging based on fringe projection](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC12098/PC1209803/Single-camera-line-scan-hyperspectral-4D-imaging-based-on-fringe/10.1117/12.2622527.short#_=_)
+  **Jiaqiong Li**, Yi Zheng, Beiwen Li*
+
+- [Tracking and visualization of benchtop assembly components using a RGBD camera](https://asmedigitalcollection.asme.org/MSEC/proceedings-abstract/MSEC2023/87240/1168779)
+  **Yashwanth Maddipatla**, Jiaqiong Li, Yi Zheng, Beiwen Li*
 
 
 </div>
