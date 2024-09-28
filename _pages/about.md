@@ -44,7 +44,7 @@ My research interests include
 
 ## Journal Papers
 
-<div class='paper-box'><div><div class='paper-box-image'><img src='images/CFPP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/CFPP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Comparative analysis of circular and linear fringe projection profilometry: from calibration to 3D reconstruction](https://opg.optica.org/optcon/fulltext.cfm?uri=optcon-3-3-468&id=547988)
@@ -129,7 +129,7 @@ Badrinath Balasubramaniam, **Jiaqiong Li**, Lingling Liu, Beiwen Li*
   **Responsibility**: Lab lecturing, grading, and office hours.
 
 
-# 🌐 Professional affiliations and review activities
+# 🌐 Service
 - **SPIE Student Member** 
 - **Journal Reviews**: IEEE Transactions on Pattern Analysis and Machine Intelligence, Optics Letters, Optics Express, IEEE Transactions on Instrumentation and Measurement, Optics and Laser Technology, IOP Measurement Science and Technology, & Journal of Modern Optics 
 
@@ -151,8 +151,8 @@ Badrinath Balasubramaniam, **Jiaqiong Li**, Lingling Liu, Beiwen Li*
 
 - **August 2018 - December 2020**, Engineer, Pan Asia Technical Automotive Center, Shanghai, China. 
   **Responsibilities**: 
-  1. Designed and released the parts of brake system in multiple vehicle platforms, including the local K platform and global Epsilon II platform. 
-  2. Built a knowledge map of brake system, which was a key research project in chassis department. 
+  1. Designed and released the parts of the brake system in multiple vehicle platforms, including the local K platform and global Epsilon II platform. 
+  2. Built a knowledge map of the brake system, which was a key research project in the chassis department. 
 
 
 # 🗺️ Visitor Map
