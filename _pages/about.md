@@ -113,7 +113,7 @@ Badrinath Balasubramaniam, **Jiaqiong Li**, Lingling Liu, Beiwen Li*
   **Jiaqiong Li**, Yi Zheng, Beiwen Li*
 
 - [Tracking and visualization of benchtop assembly components using a RGBD camera](https://asmedigitalcollection.asme.org/MSEC/proceedings-abstract/MSEC2023/87240/1168779)
-  **Yashwanth Maddipatla**, Jiaqiong Li, Yi Zheng, Beiwen Li*
+  Yashwanth Maddipatla, **Jiaqiong Li**, Yi Zheng, Beiwen Li*
 
 
 
