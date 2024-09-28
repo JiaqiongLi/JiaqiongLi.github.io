@@ -149,7 +149,7 @@ Badrinath Balasubramaniam, **Jiaqiong Li**, Lingling Liu, Beiwen Li*
 
 # 🏭 Industry experience
 
-- **August 2018 - December 2020**, Engineer, Pan Asia Technical Automotive Center, Shanghai, China.
+- ## August 2018 - December 2020, Engineer, Pan Asia Technical Automotive Center, Shanghai, China.
   **Responsibilities**: 
   1. Designed and released the parts of the brake system in multiple vehicle platforms, including the local K platform and global Epsilon II platform. 
   2. Built a knowledge map of the brake system, which was a key research project in the chassis department. 
