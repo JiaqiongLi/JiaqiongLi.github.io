@@ -92,28 +92,6 @@ My research interests include
 </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-video'>
-    <video width="100%" controls>
-      <source src="https://opticapublishing.figshare.com/articles/media/Visualization_1_mov/16664155?file=30853660" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-  [4D line-scan hyperspectral imaging](https://opg.optica.org/oe/fulltext.cfm?uri=oe-29-21-34835&id=460346)
-
-  **Jiaqiong Li**, Yi Zheng, Lingling Liu, and Beiwen Li*
-
-  **Keywords**
-  - 3D Imaging
-  - Hyperspectral Imaging
-  - Line-scan
-
-  </div>
-</div>
-
-
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/3D agriculture.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
