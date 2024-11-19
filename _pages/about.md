@@ -28,7 +28,7 @@ My research interests include
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 Successfully passed my Ph.D. final defense!.
+- *2024.11*: &nbsp;🎉🎉 Successfully passed my Ph.D. final defense and feel excited for the next chapter! 
 - *2024.10*: &nbsp;🎉🎉 Another paper accepted by Optics Express, waiting for the publication.
 - *2024.08*: &nbsp;🎉🎉 Tranfered from Iowa State University to University of Georgia.
 - *2024.05*: &nbsp;🎉🎉 Got Research Excellence Award from Iowa State University.
