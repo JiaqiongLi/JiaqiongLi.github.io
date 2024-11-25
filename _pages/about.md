@@ -46,6 +46,21 @@ My research interests include
 
 ## Journal Papers
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/4D Vis-SWIR HSI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[4D Vis-SWIR line-scan hyperspectral imaging](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-25-44624&id=564622)
+
+**Jiaqiong Li**, Lingling Liu, and Beiwen Li*
+
+**Keywords**
+- Vis-SWIR
+- Hyperspectral Imaging
+- 3D Reconstruction
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/CFPP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -71,7 +86,7 @@ My research interests include
 **Jiaqiong Li**, and Beiwen Li*
 
 **Keywords**
-- Shadow-induced errors
+- Shadow-induced Errors
 - Fringe Projection Profilometry
 - Phase-to-depth Networks
 - Digital Twin
@@ -88,7 +103,7 @@ My research interests include
 
 **Keywords**
 - 3D Imaging
-- Hyperspectral Imaing
+- Hyperspectral Imaging
 - Line-scan
 
 </div>
