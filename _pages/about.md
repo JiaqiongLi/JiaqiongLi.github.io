@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🧍‍♀️ Biography
-I'm a Ph.D. candidate majoring in Mechanical Engineering at the [University of Georgia](https://www.uga.edu/), supervised by [Prof. Beiwen Li](https://engineering.uga.edu/team_member/beiwen-li/) of [3D Optical Sensing Laboratory](https://www.3daoslab.com/). I expect to graduate in January 2024, and I am actively seeking postdoc and tenure-track assistant professor opportunities. Let's get connected! 😊
+I'm an Assistant Professor in the [Department of Engineering and Engineering Technology](https://www.uwosh.edu/engineeringtech/) at [University of Wisconsin Oshkosh](https://www.uwosh.edu/).
 
 
 My research interests include 
@@ -28,15 +28,17 @@ My research interests include
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 Joined UW Oshkosh as a tenure-track Assistant Professor. 
+- *2025.01*: &nbsp;🎉🎉 Serve as a Postdoctoral Associate at the University of Georgia. 
 - *2024.11*: &nbsp;🎉🎉 Successfully passed my Ph.D. final defense and feel excited for the next chapter! 
 - *2024.10*: &nbsp;🎉🎉 Another paper accepted by Optics Express, [4D Vis-SWIR line-scan hyperspectral imaging](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-25-44624&id=564622).
-- *2024.08*: &nbsp;🎉🎉 Tranfered from Iowa State University to University of Georgia.
+- *2024.08*: &nbsp;🎉🎉 Transferred from Iowa State University to the University of Georgia.
 - *2024.05*: &nbsp;🎉🎉 Got the Research Excellence Award from Iowa State University.
 
 
 # 📖 Educations
-- *2024.08 - 2024.12(expected)*, Ph.D. University of Georgia, Mechanical Engineering.
-- *2021.01 - 2024.08*, Ph.D candidate. Iowa State University, Mechanical Engineering and Human-Computer Interaction.
+- *2024.08 - 2024.12*, Ph.D. University of Georgia, Mechanical Engineering.
+- *2021.01 - 2024.08*, Ph.D candidate, Iowa State University, Mechanical Engineering and Human-Computer Interaction.
 - *2015.09 - 2018.06*, M.S. Shanghai Jiao Tong University, Mechanical Engineering.
 - *2011.09 - 2015.06*, B.S. University of Electronic Science and Technology of China, Mechanical Engineering.
 
