@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiaqiong Li"
-description              : "Cat lover, cooking enthusiast, and dedicated to making machines see the world in 3D."
+description              : "Cat lover, cooking enthusiast, and dedicated to making machines perceive the world in 3D and beyond."
 repository               : "/JiaqiongLi/JiaqiongLi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jiaqiong (Joan) Li"
   avatar           : "images/Jiaqiong.jpg"
-  bio              : "PhD candidate, Mechanical Enginneering, University of Georgia"
-  location         : "Athens, GA, US"
-  employer         : "University of Georgia"
+  bio              : "Assistant Professor at the University of Wisconsin Oshkosh"
+  location         : "Oshkosh, WI, US"
+  employer         : "University of Wisconsin Oshkosh"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=IjUXUrQAAAAJ&hl=en&oi=ao"
-  email            : "Jiaqiong.Li@uga.edu"
+  email            : "lij@uwosh.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
